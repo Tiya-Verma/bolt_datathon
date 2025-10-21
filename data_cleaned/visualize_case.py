@@ -43,13 +43,13 @@ def infer_region_type(s):
     return "Domestic" if str(s).strip() in {"Canada"} else "International"
 
 # ---------- Load data ----------
-stadium = safe_read_csv("stadium_operations_clean.csv")
+stadium = safe_read_csv("bolt_datathon/cleaned dataset/stadium_operations_clean.csv")
 if stadium is None:
     # fallback to provided Excel if cleaned CSV not present
     stadium = safe_read_excel("BOLT-UBC-First-Byte-Stadium-Operations.xlsx")
 
-merch = safe_read_csv("merchandise_sales_clean.csv")
-fan = safe_read_csv("fanbase_engagement_clean.csv")
+merch = safe_read_csv("bolt_datathon/cleaned dataset/merchandise_sales_clean.csv")
+fan = safe_read_csv("bolt_datathon/cleaned dataset/fanbase_engagement_clean.csv")
 
 # ---------- Stadium visuals (3) ----------
 if stadium is not None:
