@@ -1,0 +1,26 @@
+Product_ID,Barcode,Item_Category,Item_Name,Size,Unit_Price,Customer_Age_Group,Customer_Region,Promotion,Channel,Selling_Date,Member_ID,Arrival_Date,Customer_Age_Group_Normalized,Region_Type,Region_Name,Delivery_Latency_Days,FB_Age_Group_Normalized,FB_Region_Type
+10000008,20045534,Mug,Logo Mug,,25.0,41–60,Domestic,True,Online,2023-12-01 00:53:00,10000045,2023-12-10 10:12:00,,Domestic,Domestic,9.0,,International
+10000003,20052654,Hoodie,Training Hoodie,XXL,75.0,26–40,International,True,Online,2023-12-01 02:03:00,10000025,2023-12-10 18:38:00,,International,International,9.0,,Domestic
+10000012,20013965,Scarf,Home Scarf,,40.0,18–25,Domestic,True,Online,2023-12-01 02:19:00,10000004,2023-12-07 18:46:00,,Domestic,Domestic,6.0,,International
+10000003,20014607,Hoodie,Training Hoodie,M,75.0,18–25,Domestic,True,Online,2023-12-01 05:10:00,10000036,2023-12-09 13:55:00,,Domestic,Domestic,8.0,,International
+10000012,20023890,Scarf,Home Scarf,,40.0,18–25,International,True,Online,2023-12-01 05:22:00,10000026,2023-12-11 11:10:00,,International,International,10.0,,Domestic
+10000011,20050213,Scarf,Away Scarf,,40.0,18–25,International,False,Online,2023-12-01 06:50:00,10000047,2023-12-10 12:47:00,,International,International,9.0,,Domestic
+10000005,20061563,Jersey,Home Jersey,S,152.0,18–25,Domestic,False,Online,2023-12-01 07:23:00,10000036,2023-12-10 18:44:00,,Domestic,Domestic,9.0,,International
+10000003,20029594,Hoodie,Training Hoodie,XL,75.0,<18,Domestic,False,Online,2023-12-01 07:28:00,10000048,2023-12-09 13:03:00,Under 18,Domestic,Domestic,8.0,,International
+10000003,20014378,Hoodie,Training Hoodie,XXL,75.0,18–25,Domestic,False,Online,2023-12-01 10:35:00,10000048,2023-12-09 18:59:00,,Domestic,Domestic,8.0,,International
+10000009,20024930,Poster,Player Poster,,20.0,18–25,International,False,In-Store,2023-12-01 11:08:00,10000035,,,International,International,,,Domestic
+10000002,20067125,Hoodie,Team Hoodie,XXL,75.0,26–40,Domestic,False,Online,2023-12-01 12:53:00,10000004,2023-12-09 15:00:00,,Domestic,Domestic,8.0,,International
+10000008,20032947,Mug,Logo Mug,,25.0,26–40,Domestic,False,Online,2023-12-01 14:08:00,10000007,2023-12-09 12:36:00,,Domestic,Domestic,7.0,,International
+10000008,20011238,Mug,Logo Mug,,25.0,26–40,International,False,Online,2023-12-01 14:52:00,10000013,2023-12-10 18:14:00,,International,International,9.0,,Domestic
+10000014,20060745,Youth Hoodie,Youth Training Hoodie,YS,50.0,<18,Domestic,True,Online,2023-12-01 15:15:00,10000041,2023-12-08 15:08:00,Under 18,Domestic,Domestic,6.0,,International
+10000006,20012404,Jersey,Retro Jersey,M,152.0,41–60,International,False,In-Store,2023-12-01 15:27:00,10000011,,,International,International,,,Domestic
+10000002,20063881,Hoodie,Team Hoodie,S,75.0,18–25,Domestic,True,Online,2023-12-01 17:12:00,10000007,2023-12-07 16:37:00,,Domestic,Domestic,5.0,,International
+10000001,20023958,Cap,Retro Cap,,35.0,18–25,International,False,In-Store,2023-12-01 18:36:00,10000022,,,International,International,,,Domestic
+10000003,20059839,Hoodie,Training Hoodie,L,75.0,18–25,International,False,In-Store,2023-12-01 20:32:00,10000021,,,International,International,,Under 18,Domestic
+10000006,20044300,Jersey,Retro Jersey,S,152.0,18–25,International,False,Online,2023-12-02 03:29:00,10000086,2023-12-10 08:32:00,,International,International,8.0,,Domestic
+10000003,20034841,Hoodie,Training Hoodie,XL,75.0,60+,International,True,Online,2023-12-02 04:05:00,10000117,2023-12-10 13:05:00,,International,International,8.0,,Domestic
+10000007,20023093,Mug,Club Mug,,25.0,<18,Domestic,False,Online,2023-12-02 05:09:00,10000078,2023-12-11 14:34:00,Under 18,Domestic,Domestic,9.0,,International
+10000003,20006345,Hoodie,Training Hoodie,M,75.0,<18,International,False,Online,2023-12-02 06:19:00,10000108,2023-12-08 14:07:00,Under 18,International,International,6.0,,Domestic
+10000001,20028788,Cap,Retro Cap,,35.0,41–60,International,False,Online,2023-12-02 06:25:00,10000067,2023-12-11 14:22:00,,International,International,9.0,,Domestic
+10000001,20010235,Cap,Retro Cap,,35.0,41–60,Domestic,True,Online,2023-12-02 07:04:00,10000100,2023-12-11 16:04:00,,Domestic,Domestic,9.0,Under 18,International
+10000013,20011702,Youth Hoodie,Youth Team Hoodie,YM,50.0,<18,International,False,In-Store,2023-12-02 08:43:00,10000121,,Under 18,International,International,,Under 18,Domestic

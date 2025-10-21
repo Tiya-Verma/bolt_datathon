@@ -1,0 +1,145 @@
+Month,Source,Revenue,Is_Cost
+1,Upper Bowl,25020,False
+2,Upper Bowl,686664,False
+3,Upper Bowl,434112,False
+4,Upper Bowl,390879,False
+5,Upper Bowl,286524,False
+6,Upper Bowl,187056,False
+7,Upper Bowl,307230,False
+8,Upper Bowl,462672,False
+9,Upper Bowl,358527,False
+10,Upper Bowl,658944,False
+11,Upper Bowl,58077,False
+12,Upper Bowl,0,False
+1,Lower Bowl,1154980,False
+2,Lower Bowl,3327450,False
+3,Lower Bowl,3204408,False
+4,Lower Bowl,2628288,False
+5,Lower Bowl,2122992,False
+6,Lower Bowl,1289960,False
+7,Lower Bowl,1778832,False
+8,Lower Bowl,2945364,False
+9,Lower Bowl,2249916,False
+10,Lower Bowl,3410190,False
+11,Lower Bowl,556924,False
+12,Lower Bowl,0,False
+1,Season,0,False
+2,Season,527340,False
+3,Season,535923,False
+4,Season,478674,False
+5,Season,438702,False
+6,Season,228874,False
+7,Season,289464,False
+8,Season,480942,False
+9,Season,411540,False
+10,Season,416043,False
+11,Season,0,False
+12,Season,0,False
+1,Premium,35145,False
+2,Premium,398400,False
+3,Premium,272160,False
+4,Premium,243033,False
+5,Premium,169320,False
+6,Premium,107856,False
+7,Premium,183534,False
+8,Premium,318816,False
+9,Premium,259521,False
+10,Premium,314427,False
+11,Premium,19965,False
+12,Premium,0,False
+1,Food,443982,False
+2,Food,2777643,False
+3,Food,2596206,False
+4,Food,2227200,False
+5,Food,1723476,False
+6,Food,1208020,False
+7,Food,1469214,False
+8,Food,2357364,False
+9,Food,2001792,False
+10,Food,2844126,False
+11,Food,299296,False
+12,Food,0,False
+1,Staff,-2765000,True
+2,Staff,-3400000,True
+3,Staff,-3318000,True
+4,Staff,-3362000,True
+5,Staff,-3361500,True
+6,Staff,-3198000,True
+7,Staff,-3485000,True
+8,Staff,-3527500,True
+9,Staff,-3276000,True
+10,Staff,-3483000,True
+11,Staff,-3362000,True
+12,Staff,-3108000,True
+1,Concert,450000,False
+2,Concert,0,False
+3,Concert,0,False
+4,Concert,0,False
+5,Concert,285000,False
+6,Concert,620000,False
+7,Concert,1200000,False
+8,Concert,420000,False
+9,Concert,0,False
+10,Concert,0,False
+11,Concert,720000,False
+12,Concert,1180000,False
+1,Conference,240000,False
+2,Conference,75000,False
+3,Conference,70000,False
+4,Conference,146000,False
+5,Conference,71000,False
+6,Conference,69000,False
+7,Conference,71000,False
+8,Conference,144000,False
+9,Conference,68500,False
+10,Conference,140000,False
+11,Conference,225000,False
+12,Conference,243000,False
+1,Insurance,-160000,True
+2,Insurance,-160000,True
+3,Insurance,-160000,True
+4,Insurance,-160000,True
+5,Insurance,-160000,True
+6,Insurance,-160000,True
+7,Insurance,-160000,True
+8,Insurance,-160000,True
+9,Insurance,-160000,True
+10,Insurance,-160000,True
+11,Insurance,-160000,True
+12,Insurance,-160000,True
+1,Maintenance,-1500000,True
+2,Maintenance,-540000,True
+3,Maintenance,-415000,True
+4,Maintenance,-430000,True
+5,Maintenance,-500000,True
+6,Maintenance,-530000,True
+7,Maintenance,-490000,True
+8,Maintenance,-510000,True
+9,Maintenance,-540000,True
+10,Maintenance,-525000,True
+11,Maintenance,-1000000,True
+12,Maintenance,-890000,True
+1,Utilities,-269093,True
+2,Utilities,-220770,True
+3,Utilities,-221023,True
+4,Utilities,-235475,True
+5,Utilities,-301120,True
+6,Utilities,-350674,True
+7,Utilities,-431345,True
+8,Utilities,-315497,True
+9,Utilities,-221451,True
+10,Utilities,-234718,True
+11,Utilities,-349573,True
+12,Utilities,-319202,True
+1,Advertising,437600,False
+2,Advertising,485000,False
+3,Advertising,432000,False
+4,Advertising,395000,False
+5,Advertising,372700,False
+6,Advertising,387500,False
+7,Advertising,420500,False
+8,Advertising,416600,False
+9,Advertising,382300,False
+10,Advertising,421650,False
+11,Advertising,416100,False
+12,Advertising,532000,False
